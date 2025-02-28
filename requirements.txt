@@ -1,0 +1,11 @@
+streamlit
+pandas
+langchain
+faiss-cpu
+transformers
+torch
+openpyxl
+sentence-transformers
+langchain_community
+gradio
+huggingface_hub
