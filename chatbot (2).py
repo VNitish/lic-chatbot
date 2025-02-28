@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16Tp11unYtd9kvyS6nM28ubkgfgWDBfQ6
 """
 
-!pip install streamlit pandas langchain faiss-cpu transformers torch openpyxl sentence-transformers langchain_community gradio huggingface_hub
-
 import pandas as pd
 import os
 import re
